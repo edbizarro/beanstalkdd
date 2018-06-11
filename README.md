@@ -1,6 +1,6 @@
 ## :cake: Beanstalkd(docker)
 
-[![Build Status](https://travis-ci.org/edbizarro/beanstalkdd.svg?branch=master)](https://travis-ci.org/edbizarro/beanstalkdd) [![Docker Pulls](https://img.shields.io/docker/pulls/edbizarro/beanstalkd.svg)](https://hub.docker.com/edbizarro/beanstalkd)
+[![Docker Pulls](https://img.shields.io/docker/pulls/edbizarro/beanstalkd.svg)](https://hub.docker.com/r/edbizarro/beanstalkd)
 
 To use:
 
